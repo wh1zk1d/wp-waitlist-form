@@ -4,4 +4,4 @@ A simple WordPress plugin to add a 'Join the waitlist' form to your website. The
 
 ## Installation
 
-Download the ZIP file and upload it to your WordPress site.
+Download the latest version as a [ZIP](https://github.com/wh1zk1d/wp-waitlist-form/releases) file and upload it to your WordPress site.
